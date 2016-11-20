@@ -1,0 +1,10 @@
+c:\users\antec1200\documents\visual studio 2015\Projects\TemperatureMonitor\TemperatureMontiro.DAL\bin\Debug\EntityFramework.dll
+c:\users\antec1200\documents\visual studio 2015\Projects\TemperatureMonitor\TemperatureMontiro.DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\antec1200\documents\visual studio 2015\Projects\TemperatureMonitor\TemperatureMontiro.DAL\bin\Debug\EntityFramework.xml
+c:\users\antec1200\documents\visual studio 2015\Projects\TemperatureMonitor\TemperatureMontiro.DAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\antec1200\documents\visual studio 2015\Projects\TemperatureMonitor\TemperatureMontiro.DAL\obj\Debug\TemperatureMonitor.DAL.csprojResolveAssemblyReference.cache
+c:\users\antec1200\documents\visual studio 2015\Projects\TemperatureMonitor\TemperatureMontiro.DAL\bin\Debug\TemperatureMonitor.DAL.dll.config
+c:\users\antec1200\documents\visual studio 2015\Projects\TemperatureMonitor\TemperatureMontiro.DAL\bin\Debug\TemperatureMonitor.DAL.dll
+c:\users\antec1200\documents\visual studio 2015\Projects\TemperatureMonitor\TemperatureMontiro.DAL\bin\Debug\TemperatureMonitor.DAL.pdb
+c:\users\antec1200\documents\visual studio 2015\Projects\TemperatureMonitor\TemperatureMontiro.DAL\obj\Debug\TemperatureMonitor.DAL.dll
+c:\users\antec1200\documents\visual studio 2015\Projects\TemperatureMonitor\TemperatureMontiro.DAL\obj\Debug\TemperatureMonitor.DAL.pdb

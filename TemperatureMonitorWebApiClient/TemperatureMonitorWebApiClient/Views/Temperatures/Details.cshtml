@@ -1,0 +1,50 @@
+﻿@model ClassLibrary.WebApiClient.TemperatureModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>TemperatureModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.TemperatureId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TemperatureId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Time)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Time)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Celcius)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Celcius)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Location)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Location)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new {  id = Model.TemperatureId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,51 @@
+﻿@model IEnumerable<ClassLibrary.WebApiClient.TemperatureModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Temperature Entries</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.TemperatureId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Time)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Celcius)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Location)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.TemperatureId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Time)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Celcius)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Location)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.TemperatureId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.TemperatureId }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.TemperatureId })
+        </td>
+    </tr>
+}
+
+</table>

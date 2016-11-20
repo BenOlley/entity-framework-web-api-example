@@ -1,0 +1,7 @@
+c:\users\antec1200\documents\visual studio 2015\Projects\TemperatureMonitorWebApiClient\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+c:\users\antec1200\documents\visual studio 2015\Projects\TemperatureMonitorWebApiClient\ClassLibrary\bin\Debug\ClassLibrary.dll
+c:\users\antec1200\documents\visual studio 2015\Projects\TemperatureMonitorWebApiClient\ClassLibrary\bin\Debug\ClassLibrary.pdb
+c:\users\antec1200\documents\visual studio 2015\Projects\TemperatureMonitorWebApiClient\ClassLibrary\bin\Debug\Newtonsoft.Json.dll
+c:\users\antec1200\documents\visual studio 2015\Projects\TemperatureMonitorWebApiClient\ClassLibrary\bin\Debug\Newtonsoft.Json.xml
+c:\users\antec1200\documents\visual studio 2015\Projects\TemperatureMonitorWebApiClient\ClassLibrary\obj\Debug\ClassLibrary.dll
+c:\users\antec1200\documents\visual studio 2015\Projects\TemperatureMonitorWebApiClient\ClassLibrary\obj\Debug\ClassLibrary.pdb

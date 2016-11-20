@@ -1,0 +1,1 @@
+c:\users\antec1200\documents\visual studio 2015\Projects\TemperatureMonitor\TemperatureMontiro.DAL\obj\Debug\TemperatureMontiro.DAL.csprojResolveAssemblyReference.cache
